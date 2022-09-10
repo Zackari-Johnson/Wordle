@@ -8,7 +8,8 @@ wordlist = [
 word = random.choice(wordlist)
 word_decon = [x for x in word]
 
-wins = 0
+
+wins = 0 
 losses = 0
 win_ratio = 0
 moved = []
